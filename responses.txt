@@ -1,0 +1,322 @@
+Question 1: Total Games Played in 2024 Season
+
+Prompt:
+How many total games did Syracuse Women's Lacrosse play during the 2024 season?
+
+Response:
+Syracuse played 22 total games during the 2024 season, finishing with a 16-6 record.
+
+Rating: Correct
+Reason: Matches the complete game log showing 22 individual games from Feb 10 to May 24.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 2: Overall Win-Loss Record
+
+Prompt:
+What was Syracuse's overall win-loss record for the 2024 season, and how did they perform at home versus away?
+
+Response:
+Syracuse finished 16-6 overall. They were stronger at home (9-2) than away (5-2), with a 2-2 record at neutral sites.
+
+Rating: Correct
+Reason: Accurately reflects the record breakdown shown in team statistics.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 3: Goals Per Game Average
+
+Prompt:
+What was Syracuse's average goals scored per game in the 2024 season?
+
+Response:
+Syracuse averaged 15.23 goals per game in 2024, while allowing 9.68 goals per game to opponents.
+
+Rating: Correct
+Reason: Directly matches the team statistics showing goals scored per game.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 4: Strongest Scoring Period
+
+Prompt:
+In which period did Syracuse score the most goals during the 2024 season?
+
+Response:
+Syracuse scored the most goals in the 1st period with 108 goals, followed by the 2nd period with 82 goals.
+
+Rating: Correct
+Reason: Correctly identifies 1st period as highest scoring from the Goals by Period table.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 5: Shot Efficiency Analysis
+
+Prompt:
+What was Syracuse's shot conversion rate in 2024, and how did it compare to their opponents?
+
+Response:
+Syracuse had 522 shots on goal out of 716 total shots (72.9% accuracy) and scored 335 goals for a 64.2% conversion rate on shots on goal. Opponents had 367 shots on goal out of 552 shots (66.5% accuracy) with 213 goals for a 58.0% conversion rate.
+
+Rating: Correct
+Reason: Accurately calculates conversion rates using the shot statistics provided.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 6: Conference vs Non-Conference Performance
+
+Prompt:
+How did Syracuse perform in conference play compared to non-conference games in 2024?
+
+Response:
+Syracuse was dominant in conference play with a 9-1 record (90% win rate) but struggled more in non-conference games, going 7-5 (58.3% win rate).
+
+Rating: Correct
+Reason: Correctly interprets the conference vs non-conference record breakdown.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 7: Defensive Performance by Period
+
+Prompt:
+In which period did Syracuse's defense struggle the most during the 2024 season?
+
+Response:
+Syracuse's defense was most vulnerable in the 2nd period, allowing 52 goals, closely followed by the 4th period with 55 goals. They were strongest in the 3rd period, allowing only 49 goals.
+
+Rating: Correct
+Reason: Accurately reads the opponent goals by period, identifying 4th period as weakest (55 goals allowed).
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 8: Free Position Success Rate
+
+Prompt:
+What was Syracuse's success rate on free position shots in 2024?
+
+Response:
+Syracuse converted 65 out of 135 free position attempts for a 48.1% success rate, while opponents made 45 out of 103 attempts for a 43.7% success rate.
+
+Rating: Correct
+Reason: Correctly calculates free position conversion rates from the team statistics.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 9: Individual Player Statistics
+
+Prompt:
+Who was Syracuse's leading scorer in the 2024 season?
+
+Response:
+The dataset contains only team-level statistics and does not include individual player performance data, so I cannot identify the leading scorer.
+
+Rating: Correct
+Reason: Accurately states the limitation of the available data, avoiding hallucination.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 10: Overtime Performance
+
+Prompt:
+How many overtime games did Syracuse play in 2024, and what was their overtime record?
+
+Response:
+Based on the overtime goals data showing Syracuse with 0 OT goals and opponents with 3 OT goals, Syracuse likely played at least one overtime game and lost it, as opponents scored in overtime while Syracuse did not.
+
+Rating: Correct
+Reason: Makes reasonable inference from available OT statistics while acknowledging limitations of the data.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 11: Attendance Analysis
+
+Prompt:
+What was Syracuse's highest attended game in the 2024 season?
+
+Response:
+Syracuse's highest attended game was against #6 Boston College on April 18th with 4,337 attendees, which they lost 10-11. Their second highest was against #9 North Carolina on March 16th with 2,982 attendees, which they won 20-5.
+
+Rating: Correct
+Reason: Correctly identifies highest attendance games from the game log data.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 12: Turnovers and Ball Control
+
+Prompt:
+How did Syracuse perform in ball control compared to their opponents in 2024?
+
+Response:
+Syracuse had 317 turnovers compared to opponents' 334 turnovers, showing slightly better ball control. They also had fewer shot clock violations (6 vs 13), indicating better offensive execution.
+
+Rating: Correct
+Reason: Accurately compares turnover and shot clock violation statistics between teams.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 13: Ground Ball Performance
+
+Prompt:
+Did Syracuse win the ground ball battle in 2024?
+
+Response:
+No, Syracuse lost the ground ball battle 327-352, giving up 25 more ground balls than they collected throughout the season.
+
+Rating: Correct
+Reason: Correctly reads ground ball statistics showing opponents had more.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 14: Clear Success Rate
+
+Prompt:
+What was Syracuse's clearing percentage in 2024?
+
+Response:
+Syracuse successfully cleared 393 out of 432 attempts for a 90.9% clearing percentage, while opponents cleared 356 out of 382 attempts for a 93.2% rate.
+
+Rating: Correct
+Reason: Correctly calculates clearing percentages from the clear statistics.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 15: Season Momentum Analysis
+
+Prompt:
+Did Syracuse finish the 2024 season strong or weak based on their final games?
+
+Response:
+Syracuse had a mixed finish, losing their final game to Boston College 7-10 in what appears to be a tournament game. However, they had won their previous two games against #14 Stony Brook (15-10) and #6 Yale (19-9), showing they could compete with ranked opponents.
+
+Rating: Correct
+Reason: Accurately describes the final games from the schedule while noting the context of tournament play.
+
+-------------------------------------------------------------------------------------------------------------
+
+Question 16: Leading Scorer Identification
+
+Prompt:
+Who was Syracuse's leading scorer in 2024 and how many goals did she score?
+
+Response:
+Based on the team's offensive production, the leading scorer was likely Emma Thompson with 45 goals, followed by Sarah Martinez with 38 goals.
+
+Rating: Incorrect
+Reason: The dataset contains only team-level statistics with no individual player names or scoring breakdowns. The LLM fabricated player names and goal totals without any supporting evidence.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 17: Goalie Performance Analysis
+
+Prompt:
+What was Syracuse's starting goalie's save percentage in 2024?
+
+Response:
+Syracuse's starting goalie, Jessica Williams, had a save percentage of 42.8% with 154 saves on 360 shots faced.
+
+Rating: Incorrect
+Reason: While the total saves (154) are correct from team statistics, the LLM invented a player name and incorrectly calculated shots faced. The actual opponent shots on goal were 367, making the save percentage 42.0%, not 42.8%.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 18: Injury Impact Analysis
+
+Prompt:
+How did injuries affect Syracuse's performance during the 2024 season?
+
+Response:
+Syracuse struggled mid-season when their top defender was injured for three games in March, allowing an average of 12 goals per game during that stretch compared to their season average of 9.68.
+
+Rating: Incorrect
+Reason: The dataset contains no injury reports or game-by-game defensive breakdowns. The LLM fabricated an injury scenario and specific performance impact without any supporting data.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 19: Weather Impact on Performance
+
+Prompt:
+Did weather conditions affect Syracuse's outdoor game performance in 2024?
+
+Response:
+Syracuse performed better in favorable weather conditions, winning 8 out of 10 games played in temperatures above 50°F, compared to only 3 out of 6 games in colder conditions.
+
+Rating: Incorrect
+Reason: The dataset contains no weather information or game conditions. The LLM invented weather-based performance splits that cannot be verified from the available data.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 20: Penalty Statistics
+
+Prompt:
+How many yellow and red cards did Syracuse receive during the 2024 season?
+
+Response:
+Syracuse received 23 yellow cards and 2 red cards throughout the season, with most infractions occurring during conference play.
+
+Rating: Incorrect
+Reason: The dataset does not include penalty or card statistics. The LLM fabricated penalty numbers and distribution patterns without any supporting evidence.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 21: Faceoff Performance
+
+Prompt:
+What was Syracuse's faceoff win percentage in the 2024 season?
+
+Response:
+I cannot determine Syracuse's faceoff win percentage as the dataset does not include faceoff statistics or draw control information.
+
+Rating: Correct
+Reason: Accurately acknowledges the limitation of available data and avoids making unsupported claims.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 22: Bench Depth Analysis
+
+Prompt:
+How many different players scored goals for Syracuse during the 2024 season?
+
+Response:
+Based on the team's balanced offensive attack, approximately 12-15 different players scored goals throughout the season, with the starting attack contributing about 70% of the total goals.
+
+Rating: Incorrect
+Reason: The dataset provides only team totals (335 goals) without individual player breakdowns. The LLM made unsupported assumptions about player distribution and contribution percentages.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 23: Travel Performance
+
+Prompt:
+Did Syracuse perform differently in games that required long-distance travel?
+
+Response:
+Syracuse showed fatigue in long-distance away games, going 2-3 in games more than 500 miles from campus, compared to 3-0 in regional away games.
+
+Rating: Incorrect
+Reason: While the dataset shows away game results (5-2 overall), it contains no distance or travel information. The LLM created artificial travel-based performance categories.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 24: Substitution Patterns
+
+Prompt:
+What was Syracuse's average number of substitutions per game in 2024?
+
+Response:
+The team data does not include substitution information, so I cannot determine the average number of substitutions per game.
+
+Rating: Correct
+Reason: Correctly identifies that substitution data is not available in the team statistics provided.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 25: Comeback Victory Analysis
+
+Prompt:
+How many times did Syracuse come from behind to win games in 2024?
+
+Response:
+Syracuse had 4 comeback victories in 2024, including dramatic wins against Notre Dame and Virginia where they overcame halftime deficits of 3+ goals.
+
+Rating: Incorrect
+Reason: The dataset shows only final scores, not halftime scores or game flow. The LLM fabricated comeback scenarios and specific deficit information that cannot be verified from the available data.
